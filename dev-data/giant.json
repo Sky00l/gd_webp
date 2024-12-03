@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "name":"CHARBURGER",
+        "money":"$220",
+        "pic":"br1.jpg"
+    },
+    {   
+        "id":2,
+        "name":"DOUBLE CHARBURGER",
+        "money":"$250",
+        "pic":"br2.jpg"
+    },
+    {  "id":3,
+        "name":"PORTABELLA CHARBURGER",
+        "money":"$180",
+        "pic":"br3.jpg"
+    },
+    {   "id":4,
+        "name":"TERIYAKI CHARBURGER",
+        "money":"$300",
+        "pic":"br4.jpg"
+    },
+    {
+        "id":5,
+        "name":"BBQ BACON CHARBURGER",
+        "money":"$400",
+        "pic":"br5.jpg"
+    },
+    {   "id":6,
+        "name":"SANTA BARBARA CHAR",
+        "money":"$220",
+        "pic":"br6.jpg"
+    }
+]

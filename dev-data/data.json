@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "name":"French Burger",
+        "money":"$22",
+        "pic":"blog1.jpg"
+    },
+    {   
+        "id":2,
+        "name":"Veg Muffin",
+        "money":"$16",
+        "pic":"blog2.jpg"
+    },
+    {  "id":3,
+        "name":"Brioche",
+        "money":"$18",
+        "pic":"blog3.jpg"
+    },
+    {   "id":4,
+        "name":"Cheese Burger ",
+        "money":"$20",
+        "pic":"g1.jpg"
+    },
+    {
+        "id":5,
+        "name":"Chicken Burger",
+        "money":"$22",
+        "pic":"g2.jpg"
+    },
+    {   "id":6,
+        "name":"Veg Burger",
+        "money":"$16",
+        "pic":"g3.jpg"
+    }
+]

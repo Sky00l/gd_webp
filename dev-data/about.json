@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"Free Shipping",
+        "category":"Morbi viverra lacus commodo felis semper lectus feugiat.",
+        "pic":"s1.png"
+    },
+    {   
+        "id":2,
+        "name":"Free & Easy Returns",
+        "category":"Morbi viverra lacus commodo felis semper lectus feugiat.",
+        "pic":"s2.png"
+    },
+    {  
+        "id":3,
+        "name":"Online Order",
+        "category":"Morbi viverra lacus commodo felis semper lectus feugiat.",
+        "pic":"s3.png"
+    },
+    {   
+        "id":4,
+        "name":"24/7 Support",
+        "category":"Morbi viverra lacus commodo felis semper lectus feugiat",
+        "pic":"s4.png"
+    }
+
+]
