@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "name":"Diced Beef",
+        "money":"$120",
+        "pic":"sb1.jpg"
+    },
+    {   
+        "id":2,
+        "name":"Chicken Bacon Ranch",
+        "money":"$150",
+        "pic":"sb2.jpg"
+    },
+    {  "id":3,
+        "name":"Buffalo Chicken",
+        "money":"$220",
+        "pic":"sb3.jpg"
+    },
+    {   "id":4,
+        "name":"SUBWAY Melt™",
+        "money":"$180",
+        "pic":"sb4.jpg"
+    },
+    {
+        "id":5,
+        "name":"Chicken Teriyaki",
+        "money":"$190",
+        "pic":"sb5.jpg"
+    },
+    {   "id":6,
+        "name":"SUBWAY Club™",
+        "money":"$170",
+        "pic":"sb6.jpg"
+    }
+]

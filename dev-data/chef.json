@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "name":"Mack Joe",
+        "pic":"t1.png"
+    },
+    {   
+        "id":2,
+        "name":"Cruz Deo",
+        "pic":"t2.png"
+    },
+    {  
+        "id":3,
+        "name":"Rochy Jae",
+        "pic":"t3.png"
+    },
+    {   
+        "id":4,
+        "name":"Rojo Poy",
+        "pic":"t4.png"
+    }
+
+]
